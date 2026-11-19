@@ -1,0 +1,9 @@
+node_modules/
+dist/
+frames/
+frames_*/
+out/
+PROMPT.md
+.DS_Store
+*.log
+*.mp4
